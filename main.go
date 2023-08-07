@@ -38,7 +38,4 @@ func main() {
 		serveOpts...,
 	)
 
-	if err != nil {
-		log.Fatal(err)
-	}
-}
+	
